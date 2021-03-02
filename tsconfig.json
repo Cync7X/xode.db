@@ -10,7 +10,7 @@
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "outDir": "lib",
+    "outDir": "out",
     "typeRoots": ["node_modules/@types"]
   },
   "include": ["src"]
